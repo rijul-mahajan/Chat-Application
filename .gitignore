@@ -40,6 +40,7 @@ server.ico
 
 # Package files
 *.jar
+!lib/sqlite-jdbc-3.49.1.0.jar
 
 # IDE specific files
 # ==================
