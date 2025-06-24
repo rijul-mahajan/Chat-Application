@@ -1,0 +1,48 @@
+# OpenChat Build Artifacts
+# =========================
+
+# Build script
+build.ps1
+
+# Build directories
+out/
+dist/
+package/
+build/
+
+# Compiled Java files
+*.class
+
+# JAR files (built artifacts)
+OpenChatApp.jar
+ServerManagerApp.jar
+
+# Manifest files (temporary)
+CLIENT-MANIFEST.MF
+SERVER-MANIFEST.MF
+*.MF
+
+# Launcher properties (temporary)
+*.properties
+
+# Batch files (generated)
+*.bat
+
+# Windows executable installer
+*.exe
+
+# Icons
+icon.ico
+server.ico
+
+# Java specific
+# =============
+
+# Package files
+*.jar
+
+# IDE specific files
+# ==================
+
+# VS Code
+.vscode/
